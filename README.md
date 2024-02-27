@@ -1,5 +1,4 @@
-
-![GH Badge](https://github.com/AliAhmad05/e2eDemoQA/master/.github/workflows/ci.yml/badge.svg)
+[![Playwright Tests](https://github.com/AliAhmad05/e2eDemoQA/actions/workflows/ci.yml/badge.svg)](https://github.com/AliAhmad05/e2eDemoQA/actions/workflows/ci.yml)
 
 
 ## Owner
