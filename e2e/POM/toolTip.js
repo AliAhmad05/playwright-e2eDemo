@@ -8,7 +8,6 @@ export class ToolTip {
 
   async mouseHover(){
     await this.page.locator(locatorToolTip.buttonHover).hover()
-    await this.page.waitForTimeout(3000)
   }
 
   async assertToolTip() {
