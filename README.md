@@ -1,9 +1,10 @@
+
+![GH Badge](https://github.com/AliAhmad05/e2eDemoQA/master/.github/workflows/ci.yml/badge.svg)
+
+
 ## Owner
 
 The code in the repo is written by https://github.com/AliAhmad05
-
-[![Playwright Test Status](https://playwright.dev/report/badge/github/AliAhmad05/e2eDemoQA)](https://playwright.dev/report/github/AliAhmad05/e2eDemoQA)
-[![GitHub Actions Status](https://github.com/AliAhmad05/e2eDemoQA/actions/workflows/playwright-tests.yml/badge.svg?branch=main)](https://github.com/AliAhmad05/e2eDemoQA/actions/workflows/playwright-tests.yml)
 
 
 ## Getting Started
