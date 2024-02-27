@@ -26,6 +26,7 @@ export class Commands {
 
   async selectRadioButton(button) {
     await this.page.getByText(`${button}`, { exact: true }).click();
+     await this.page.waitForTimeout(500)
   }
 
   async clickOnButton(button){
