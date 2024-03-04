@@ -3,3 +3,4 @@ test-results/
 file.pdf
 playwright-report/
 package-lock.json
+*.DS_Store
